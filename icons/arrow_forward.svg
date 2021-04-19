@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="40" height="40" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Компонент_68_2" data-name="Компонент 68 – 2" transform="translate(40 40) rotate(180)" clip-path="url(#clip-path)">
+    <g id="Компонент_62_4" data-name="Компонент 62 – 4" transform="translate(40 40) rotate(180)">
+      <rect id="Rectangle_5_copy_3" data-name="Rectangle 5 copy 3" width="40" height="40" fill="#fff"/>
+      <path id="chevron-right" d="M33.582,43.46,29,48.252a.549.549,0,0,1-.8,0l-.535-.559a.611.611,0,0,1,0-.836l3.634-3.816-3.634-3.816a.611.611,0,0,1,0-.836l.535-.559a.549.549,0,0,1,.8,0l4.586,4.792A.611.611,0,0,1,33.582,43.46Z" transform="translate(-11.494 -22.657)"/>
+    </g>
+  </g>
+</svg>
